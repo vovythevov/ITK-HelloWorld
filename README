@@ -1,0 +1,7 @@
+Build Instructions for OneRingHelloWorld
+
+Need: 
+
+CMake 2.6 at least. Can be found here: http://www.cmake.org/cmake/resources/software.html 
+ITK build. Here I used ITK 4.1 (http://www.itk.org/ITK/resources/software.html)
+C++ Compiler
